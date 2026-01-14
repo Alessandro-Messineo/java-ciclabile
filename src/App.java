@@ -1,4 +1,4 @@
-import org.ElencoInteri;
+import org.lessons.java.ciclabile.ElencoInteri;
 
 public class App {
     public static void main(String[] args) throws Exception {
